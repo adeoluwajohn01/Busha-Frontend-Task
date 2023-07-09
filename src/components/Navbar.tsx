@@ -4,7 +4,7 @@ import "../styles/main.css"
 function Navbar() {
   return (
     <header>
-       <img src='busha.PNG' />
+       <img src='busha.png' />
        <nav>
             <div className='move'>
                 <button className='but'>o</button>
